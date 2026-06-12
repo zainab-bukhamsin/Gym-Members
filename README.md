@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 - Workout_Type: Type of workout performed (e.g., Cardio, Strength, Yoga, HIIT)
 - Experience_Level: Fitness experience level of the member (1 = Beginner, 3 = Expert)
 
-## Purpose of the Dataset
+## Purpose of the Assignment
 The purpose of this dataset is to perform Data Quality Assessment & Preprocessing to understand:
 - How to detect and fix data type inconsistencies in real-world fitness data
 - How to handle missing values using appropriate imputation strategies
